@@ -135,13 +135,12 @@
   top: -25vh;
   height: 30vh;
   margin-bottom: -30vh;
-  /* background: radial-gradient(
+  background: radial-gradient(
     65.24% 517.33% at 56.12% 36.32%,
     #74a7c2 0%,
     #39aea8 59.49%,
-    #8860d0 100% */
-    background: #000000;
-  
+    #8860d0 100%
+  );
 }
 
 .highlights {
