@@ -11,7 +11,7 @@ const AdminLogin = () => {
     // Replace these with your actual admin credentials or authentication method
     const adminCredentials = {
         username: "admin",
-        password: "123"
+        password: "12345678910"
     };
 
     const handleLogin = (e) => {
